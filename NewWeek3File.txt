@@ -1,0 +1,130 @@
+
+
+
+This is not a QUIZ. This format is used for Submission of Coding Assignments!
+
+
+Week 3: Coding Assignment Instruction
+ & Submission
+
+After watching the video, Source Control with git, you should have already set up a GitHub account for this program.
+
+If you have not setup your GitHub account, review the above video in the Week 3: Weekly Videos and Curriculum and set your account up before proceeding with this assignment.
+
+
+Overview  
+
+The Week 3 Coding Assignment has two purposes:  
+
+     1.  Connecting git to GitHub: 
+
+Learn how to connect git (on your local machine through Windows Command Prompt or MacOS Terminal) to GitHub (on GitHub.com).  
+
+No Java coding is necessary, the idea is to push something to GitHub and show that you have connected your local git to the remote GitHub.  
+
+That is the first part!
+
+     2.   Create your first Coding Assignment Video Submission 
+
+Learn how to create Coding Assignment Submission Videos. 
+
+Overview of this first Video: 
+
+There is not a lot to show for Week 3 in a Video, so here are some suggestions:
+
+    Show a Command Prompt (Windows) or a Terminal (MacOs) window with the exact git commands that you used to attach your Week-03 local directory to the your Week-03 GitHub repository.   
+    In addition, you could include:
+            git status
+            Using dir (Windows) or ls (MacOS) -- Show the Week-03 Coding Assignment directory & contents.
+            Show all of the commands used to Initialize your repo --  include any git commands that you used 
+
+    Show your connected GitHub Repo that matches the contents of the Week-03 Coding Assignment local directory, and demonstrate that it has the correct contents. (show this in your browser)
+
+    Verbally explain what you are showing us.
+
+
+Instructions
+Details on how to Complete & Submit This Assignment
+
+    Follow the Assignment Steps below to complete this assignment.
+
+What a Coding Assignment Submission Video Looks Like **   
+
+    In this video: record and present your homework verbally while showing that you have connected git and GitHub.  
+
+    Easy way to Create a video: Start a meeting in Zoom, Share your desktop, open your Command Prompt Window (Windows) or your Terminal Window (MacOS) and show the process that you followed to accomplish the steps in this assignment. It would be helpful to also show your GitHub repo, and the files that are in both your local directory and GitHub. 
+
+    Your video should be a maximum of 5 minutes. 
+
+    Upload your video to a site that allows you to share the link and have others view the video.
+
+    Easy way to Create a Shareable Video Link: Upload your video recording to YouTube with either a PUBLIC or UNLISTED link. 
+
+2.  Click the Submit Button to submit your assignment when you are finished.  Include the following in your Quiz Submission:
+
+    URL to GitHub Repository: This is the URL for the connected GitHub repository.
+
+    URL to Public Link of your Video: This is the URL of the shareable link to your Coding Assignment video.
+
+
+
+Assignment Steps
+
+1.  Download this directory structure:  
+
+This is an example of one way to organize your coding assignments for the Backend Coding Bootcamp. (This directory structure is NOT REQUIRED!)
+
+
+The link below has a zipped file that contains an empty directory (folder) for your assignments. Download the file to your computer and unzip it. This directory (folder) may be utilized to organize projects for this course.  The root directory is called BE-Promineo-Tech, and inside there are 18 directories, one for each of the 18 weeks of this Bootcamp.
+
+
+BE-Promineo-Tech Directory Structure Download
+
+
+Note: In the following Git/GitHub Tutorial, a file is created in Terminal (on a Mac) using touch filename
+
+To do the same thing in Command Prompt (on Windows), use the following command:
+
+(Windows or Mac) echo “text-to-put-into-file” > filename
+
+ 
+
+2.   Watch the following video:   While watching the video, try it out!  
+
+Connect one of the above directories to GitHub - Maybe the Week-01 or Week-02 Directories.  
+
+
+3.  Create a Video as described doing the following steps again! THIS TIME do it with Week-03!
+
+
+ ** Refer to What a Coding Assignment Submission Video Looks Like section above!
+
+
+Following what you have learned from the Git/GitHub tutorial in your Week 0 video:
+
+
+    Create a directory (folder), or use the one provided above, for your Week-03 assignment.  
+
+    Create a repository on the GitHub website that you will connect your local folder to!
+
+    Push your directory of files to GitHub as instructed in the video.
+
+    After your first push, please ensure that you make some changes to your directory (folder), such as adding a new file or changing your code. Push those changes to your repository a second time (as shown in the video).  
+
+    Be sure to show your Terminal (MacOS) or Command Prompt (Windows) window that shows your successful connection. 
+
+
+
+Reminders
+
+Due Date:   Each Coding Assignment is due by midnight on Saturday.
+
+
+Late Policy:    Assignments turned in late will result in a 10% deduction of points.
+
+
+Tips:
+
+- Start the assignment early in the week and before your live class. 
+
+- Bring questions to your class, to office hours or a mentor session.
